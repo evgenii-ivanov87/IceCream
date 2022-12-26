@@ -52,20 +52,20 @@
 .products-img {
   width: 100%;
   position: absolute;
-  top: -200px;
-  left: 0%;
+  top: -50px;
+  left: 50%;
   translate: (-50% -50%);
 }
 
 @media screen and (max-width: 767px) {
   .products-img {
-    top: -126px;
+    top: -15px;
   }
 }
 
 @media screen and (min-width: 768px) and (max-width: 1199px) {
   .products-img {
-    top: -99px;
+    top: -39px;
   }
 }
 
